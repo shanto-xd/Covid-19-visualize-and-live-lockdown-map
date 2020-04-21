@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.himon{
+    width: 700px;
+    margin: 100px auto;
+    top: 3;
+    text-align: center;
+    background: #5D5F60;
+    color: #fff000;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: 600;
+}
