@@ -1,4 +1,4 @@
-# COVID-19 BD Visualize
+# COVID-19 BD Visualization and Live Lockdown Map
 District-wise map of COVID-19 cases in Banlgadesh
 Upazilla Wise map of Lockdown in bangladesh
 
