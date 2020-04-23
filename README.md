@@ -1,15 +1,8 @@
-# covid19-bd
-District-wise map of CoVID19 cases in Banlgadesh
+# COVID-19 BD Visualize
+District-wise map of COVID-19 cases in Banlgadesh
+Upazilla Wise map of Lockdown in bangladesh
 
 Data is compiled using news report
 Official IEDCR data is used as a reference.
 
-Uses the following JS libraries
-- leaflet
-- esri leaflet plugin
-- jQuery
-- bootstrap
-- popper
-- tabletop
-
-Data is pulled from a [public data}] corona.gov.bd
+Data is pulled from a [public data] www.corona.gov.bd
